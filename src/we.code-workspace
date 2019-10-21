@@ -1,0 +1,27 @@
+{
+	"folders": [
+		{
+			"path": "/Users/leslie/Dev/zine-test-1"
+		},
+		{
+			"path": "/Users/leslie/Dev/zine-test-1"
+		}
+	],
+	"settings": {
+		"workbench.colorCustomizations": {
+			"activityBar.background": "#809ba6",
+			"activityBar.foreground": "#15202b",
+			"activityBar.inactiveForeground": "#15202b99",
+			"activityBarBadge.background": "#e5dae1",
+			"activityBarBadge.foreground": "#15202b",
+			"titleBar.activeBackground": "#64838f",
+			"titleBar.inactiveBackground": "#64838f99",
+			"titleBar.activeForeground": "#e7e7e7",
+			"titleBar.inactiveForeground": "#e7e7e799",
+			"statusBar.background": "#64838f",
+			"statusBarItem.hoverBackground": "#809ba6",
+			"statusBar.foreground": "#e7e7e7"
+		},
+		"peacock.color": "#64838f"
+	}
+}
