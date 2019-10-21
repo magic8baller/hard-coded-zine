@@ -20,7 +20,9 @@ const styles = {
 	text: {
 		height: 800,
 		textAlign: "center",
-		font: 'Verdana'
+		font: 'Verdana',
+		fontSize: '1.5em',
+		whiteSpace: 'pre'
 	}
 };
 
@@ -38,9 +40,10 @@ function PoemCard (props) {
 					<Typography gutterBottom variant="h5" component="h2">
 					<span style={{font: 'Impact'}}>
 						<em><b><u>{poem.title}</u></b></em></span>
+						<br/><span style={{fontSize: '0.8rem'}}>{poem.createdAt}</span>
 
           </Typography>
-					<Typography component="p" className="text">
+					<Typography className={classes.text}>
 						{poem.body}
           </Typography>
 				</CardContent>

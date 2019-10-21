@@ -44,6 +44,7 @@ function ImageCard (props) {
 						{/* {img.title} */}
           </Typography>
 					<Typography className="text" component="p">
+
 						{/* See these eyes so green<br />I can stare for a thousand years<br />Colder than
             the moon<br />It's been so long<br />Feel my blood enraged<br />It's just the fear
             of losing you<br />Don't you know my name?<br />You've been so long<br />And I've
